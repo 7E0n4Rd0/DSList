@@ -14,7 +14,7 @@
 - H2;
 - PostgreSQL (Docker);
 - MAVEN.
-## Requisitos
+## Requisitos Técnicos
 
 - Fundamentação em Lógica de Programação;
 - Java OOP;
